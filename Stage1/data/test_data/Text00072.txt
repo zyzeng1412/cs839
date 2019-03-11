@@ -1,0 +1,9 @@
+
+  The award winners were: 
+  Laureus World Sportsman of the Year: <Name>Rafael Nadal</Name> (Spain) 
+  Laureus World Sportswoman of the Year: <Name>Lindsey Vonn</Name> (US) 
+  Laureus World Team of the Year: Spain World Cup 
+  Team Laureus World Breakthrough of the Year: <Name>Martin Kaymer</Name> (Germany) 
+  Laureus World Comeback of the Year: <Name>Valentino Rossi</Name> (Italy) 
+  Laureus World Sportsperson of the Year with a Disability: <Name>Verena Bentele</Name> (Germany) 
+  Laureus World Action Sportsperson of the Year: <Name>Kelly Slater</Name> (US)
