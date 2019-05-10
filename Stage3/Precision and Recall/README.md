@@ -18,3 +18,5 @@ Labeled 400 Tuple Pairs: https://github.com/zyzeng1412/cs839/blob/master/Stage3/
 Blocking Rule Description.pdf: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/Blocking%20Rule%20Description.pdf
 
 Estimating Accuracy.pdf: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/Estimating%20Accuracy.pdf
+
+blockingRule.ipynb: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/blockingRule.ipynb
