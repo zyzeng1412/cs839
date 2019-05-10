@@ -8,7 +8,7 @@ Table B: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%
 Candidate Set: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/Candidate%20set.xls  
 Prediction Set: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/Prediction%20list.xls  
 Labeled 400 Tuple Pairs: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/labelPairs_400.csv  
-Reduced Tuple Pairs: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/reducedTuplePairs.csv
+Reduced Tuple Pairs: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/reducedTuplePairs.csv  
 Blocking Rule Description.pdf: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/Blocking%20Rule%20Description.pdf   
 Estimating Accuracy.pdf: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/Estimating%20Accuracy.pdf
 blockingRule.ipynb: https://github.com/zyzeng1412/cs839/blob/master/Stage3/Precision%20and%20Recall/blockingRule.ipynb
