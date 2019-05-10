@@ -1,4 +1,5 @@
 Size of Candidate Set: 26263
+Size of Reduced Candidate set: 461
 
 Precision: (0.970093033882644, 0.9846239472494315)
 Recall: (0.9337969948257316, 0.9539917840521561)
